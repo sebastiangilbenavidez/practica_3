@@ -7,7 +7,7 @@ package persona;
 
 /**
  *
- * @author Ganso
+ * @author Sebastian gil
  */
 public abstract class PersonBuilder {
 
