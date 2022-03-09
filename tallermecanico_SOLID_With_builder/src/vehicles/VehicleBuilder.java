@@ -7,7 +7,7 @@ package vehicles;
 
 /**
  *
- * @author Ganso
+ * @author Sebastian gil
  */
 public abstract class VehicleBuilder {
     Vehicle vehicle;
