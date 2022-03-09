@@ -9,7 +9,7 @@ import utilities.Utilities;
 
 /**
  *
- * @author Ganso
+ * @author Sebastian gil
  */
 public class EmployeeBuilder extends PersonBuilder{
 
