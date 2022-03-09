@@ -12,7 +12,7 @@ import vehicles.*;
 
 /**
  *
- * @author Ganso
+ * @author Sebastian gil
  */
 public class Logs {
 
