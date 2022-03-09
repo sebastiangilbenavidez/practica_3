@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Ganso
+ * @author Sebastian gil
  */
 public class Utilities {
 
