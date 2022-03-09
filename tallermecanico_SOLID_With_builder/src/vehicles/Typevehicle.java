@@ -7,7 +7,7 @@ package vehicles;
 
 /**
  *
- * @author Ganso
+ * @author Sebastian gil
  */
 public enum Typevehicle {
     Car,
